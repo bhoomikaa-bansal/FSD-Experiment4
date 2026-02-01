@@ -48,7 +48,7 @@ Through this experiment, developers gain insight into state management patterns 
 
 ---
 
-## 📁 Directory Layout
+## 📁 Experiment Structure
 
 <pre>
 src/
@@ -73,7 +73,7 @@ src/
 
 ---
 
-## Key Takeaways
+## KLearning Outcomes
 
 Upon finishing this project, you will have developed the ability to:
 
@@ -81,13 +81,11 @@ Upon finishing this project, you will have developed the ability to:
 2. Compare **component-level state with application-level state**
 3. Use the `useState` hook for managing component state
 4. Set up and configure a **Redux store**
-5. Integrate the `Provider` component for state accessibility throughout the application
-6. Incorporate Redux into practical React projects
-7. Design scalable and maintainable React architectures
+5. Design scalable and maintainable React architectures
 
 ---
 
-## Release & Hosting
+## Deployed on Platforms
 
 - The full project source code is available on **GitHub** for version control and collaboration.
 - The application is live on **Netlify**, providing public access to the working demo.
